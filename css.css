@@ -1,0 +1,61 @@
+#weekdays
+{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box{
+    color: #fff;
+    padding: 20px;
+    display: none;
+    margin-top: 20px;
+}
+
+table
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+}
+
+.monday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.tuesday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.wednesday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.thursday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.friday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.saturday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+.sunday
+{
+    background: cornflowerblue;
+    border: black solid 2px;
+}
+label{ margin-right: 15px; }
